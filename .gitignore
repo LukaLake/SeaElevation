@@ -1,0 +1,15 @@
+# Ignore deep learning generated model files
+*.h5
+*.hdf5
+*.pth
+*.pt
+*.ckpt
+*.0
+*.yaml
+
+# Ignore CSV files
+*.csv
+
+# Ignore TIFF files
+*.tiff
+*.tif
